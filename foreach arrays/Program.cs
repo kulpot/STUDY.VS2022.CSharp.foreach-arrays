@@ -19,6 +19,6 @@ class MainClass
             totalAge += element;
         }
         Console.WriteLine(totalAge);
-        //ages[5] = 29; // out of range exception
+        //ages[5] = 29; // index out of range exception
     }
 }
